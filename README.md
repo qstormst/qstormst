@@ -15,7 +15,7 @@
       $\color{blue}{\textsf{! !Please do NOT copy me or FANKY! !}}$ <br>
       $\color{blue}{\textsf{I can be awkward, but I promise Im Nice! (or not)}}$ <br>
       $\color{blue}{\textsf{I'm almost always AFK, so whisper to interact}}$ <br>
-      $\color{blue}{\textsf{I may not replying and disconnect from pt}}$ <br>
+      $\color{blue}{\textsf{I may not reply and disconnect from pt}}$ <br>
 </th>
 </tr>
 </table>
