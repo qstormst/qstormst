@@ -10,12 +10,12 @@
 <table>
   <tr>
     <th>
-      $\color{blue}{\textsf{★}}$ <br>
-      $\color{blue}{\textsf{DNI w/ me if you are under 16 years old.}}$ <br>
-      $\color{blue}{\textsf{! !Please do NOT copy me or FANKY! !}}$ <br>
-      $\color{blue}{\textsf{I can be awkward, but I promise Im Nice! (or not)}}$ <br>
-      $\color{blue}{\textsf{I'm almost always AFK, so whisper to interact}}$ <br>
-      $\color{blue}{\textsf{I may not reply and disconnect from pt}}$ <br>
+      $\color{white}{\textsf{★}}$ <br>
+      $\color{cyan}{\textsf{DNI w/ me if you are under 16 years old.}}$ <br>
+      $\color{white}{\textsf{! !Please do NOT copy me or FANKY! !}}$ <br>
+      $\color{cyan}{\textsf{I can be awkward, but I promise Im Nice! (or not)}}$ <br>
+      $\color{cyan}{\textsf{I'm almost always AFK, so whisper to interact}}$ <br>
+      $\color{cyan}{\textsf{I may not reply and disconnect from pt}}$ <br>
 </th>
 </tr>
 </table>
