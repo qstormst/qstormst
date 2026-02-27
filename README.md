@@ -15,7 +15,7 @@
       $\color{white}{\textsf{! !Please do NOT copy me or FANKY! !}}$ <br>
       $\color{cyan}{\textsf{I DON'T help with limit, as I'm often in afk}}$ <br>
       $\color{cyan}{\textsf{BUT this doesn't mean that I don't see or know anything.}}$ <br>
-      $\color{cyan}{\textsf{I may not reply and disconnect from pt}}$ <br>
+      $\color{purple}{\textsf{˖⁺‧₊˚♡˚₊‧⁺˖Be good and have a nice day ˖⁺‧₊˚♡˚₊‧⁺˖}}$ <br>
 </th>
 </tr>
 </table>
